@@ -1,1 +1,26 @@
-SirenaProject
+Our project for collective mining combines the goals and ideas of mutual benefit through mining using the firopou algorithm. The main goal of the project is to create decentralized nodes for storing various types of information. Transfers between wallets are carried out using S rings. The project does not have an explorer - which will allow you to maintain security and anonymity when transferring transactions, as well as when transferring information via a secure protocol.
+
+
+Sirena Specifications
+Algorithm : FiroPow
+Total Supply : 80,000,000
+Block Speed : 136 seconds
+Block Reward : 50 SRN
+Block halving: every 1 year
+Port : 1152
+
+Explorer
+Project without explorer
+
+Website
+https://sirenaproject.io (dns updates for 2-3 days)
+
+Roadmap
+Q4 2023: Closed beta project M, exchange listing
+
+Q1 2024: Middle exchange listing, mobile/web version wallets
+
+Q2 2024: Project M for secure messages and first public test
+
+To maintain your safety and anonymity, the project will not have its own Discord server or Twitter. Instead, you can find information about the project either in this thread or on the website.
+However, you can create unofficial servers to communicate with each other
